@@ -5,12 +5,12 @@
 I am interested in exploring journey length and how it interacts with other variables.
 # Feature engineering
 create a new category called "JourneyTime", which is the total journey time in minutes, as the difference between "ExTime" and "EntTime"
-Step 2: EDA
+# Step 2: EDA
 Now let's explore the data with some visualisations.
 Important Observation on 'complete' Dataframe
 Comparing Start and End Stations
 Most popular stations (Start or End)
 Compare days of week
-#Step 3: Preprocessing
+# Step 3: Preprocessing
 Prepare data for modelling, creating logical variables and dropping redundant features
 # Conclusion
