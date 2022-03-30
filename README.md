@@ -5,7 +5,7 @@ We’d like to see you in action using some of the tools and techniques that you
 With that in mind, please prepare a worked example for us – a 10 -15 minute demo to be followed by Q&A – demonstrating the points below and including any additional insights you may wish to share on best practice / recommendations.  
 
 # Problem Statement  
-How can we use data to work out the optimal routes to help more people make the frequent journeys on bus to promote Electrical Bus on those routes?  
+How can we use data to work out the optimal routes to help more people make the frequent journeys to promote Electric Bus on these routes?  
 Deploying ETL application to Kubernetes engine and understanding . Please provide live demo for deploying application to Kubernetes. 
 
 ## Step 1: Data Wrangling
@@ -24,7 +24,7 @@ Prepare data for modelling, creating logical variables and dropping redundant fe
 
 ## Conclusion
 
-# Step 4: The Challenge for DataOps
+## Step 4: The Challenge for DataOps
 1. Please deploy above ETL application to the Kubernetes engine.  
 2. You may want to touch on how these tools can be used to support scaled Data Engineering solutions within large enterprises. 
 
