@@ -1,5 +1,5 @@
 # data-eng-SP-test - This **data.csv** dataset is powered by Government(Transport) Open Data.
-This dataset provides a sample of stagecoach card journeys performed in a week on bus. On journey on bus, card user must touch in at the start, and touch out at the end for journey validation. On buses card users are only required to touch in so to validate their journey. Feel free to use any programming language but i would prefer Pyspark, Scala or python framwork(Django).
+This dataset provides a sample of stagecoach card journeys performed in a week on bus. On journey on bus, card user must touch in at the start, and touch out at the end for journey validation. On buses card users are only required to touch in so to validate their journey. Feel free to use any programming language but prefered lanuage or framework would be Pyspark, Scala or python framwork(Django).
 We’d like to see you in action using some of the tools and techniques that you’re likely to encounter on the job.  
 
 With that in mind, please prepare a worked example for us – a 10 -15 minute demo to be followed by Q&A – demonstrating the points below and including any additional insights you may wish to share on best practice / recommendations.  
