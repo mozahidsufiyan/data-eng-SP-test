@@ -9,9 +9,9 @@ How can we use data to work out the optimal routes to help more people make the 
 Deploying ETL application to Kubernetes engine and understanding . Please provide live demo for deploying application to Kubernetes. 
 
 ## Step 1: Data Wrangling
-## Completed Journeys
+### Completed Journeys
 I am interested in exploring journey length and how it interacts with other variables.
-## Feature engineering
+### Feature engineering
 create a new category called "JourneyTime", which is the total journey time in minutes, as the difference between "ExTime" and "EntTime"
 ## Step 2: EDA
 Now let's explore the data with some visualisations.
